@@ -84,7 +84,7 @@ define( '_AM_ALRT_TOOOLDTABLE' , "Table error occured.<br />\nPerhaps you used p
 define( '_AM_FMT_SERVER_TZ_ALL' , "Timezone of the server (winter): %+2.1f<br />Timezone of the server (summer): %+2.1f<br />Zonename of the server: %s<br />The value of XOOPS config: %+2.1f<br />The value of piCal using: %+2.1f<br />" ) ;
 define( '_AM_TH_SERVER_TZ_COUNT' , "Events" ) ;
 define( '_AM_TH_SERVER_TZ_VALUE' , "Timezone" ) ;
-define( '_AM_TH_SERVER_TZ_VALUE_TO' , "Changes (-14.0¡Á14.0)" ) ;
+define( '_AM_TH_SERVER_TZ_VALUE_TO' , "Changes (-14.0ï½ž14.0)" ) ;
 define( '_AM_JSALRT_SERVER_TZ' , "Don't forget backing-up events table before this operation" ) ;
 define( '_AM_NOTICE_SERVER_TZ' , "If your server set the timezone area with summer time (=Day Light Saving) and some events were registerd in piCal 0.6x or 0.7x, dont't push this button.<br />eg) It is natural to display both -5.0 and -4.0 in EDT" ) ;
 define( '_AM_MB_SUCCESSTZUPDATE' , "Events are modified with the timezone(s)." ) ;
